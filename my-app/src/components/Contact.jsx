@@ -8,7 +8,7 @@ const Contact = () => {
     <section id="contact" className="contact">
       <div className="container">
         <h2>Contact Me</h2>
-        <p>You can add a contact form or details here.</p>
+        <p>Under Development...</p>
       </div>
     </section>
   );

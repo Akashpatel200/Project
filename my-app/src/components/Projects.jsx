@@ -8,7 +8,7 @@ const Projects = () => {
     <section id="projects" className="projects">
       <div className="container">
         <h2>Projects</h2>
-        <p>Add your projects or portfolio showcase here.</p>
+        <p>Under Development...</p>
       </div>
     </section>
   );
