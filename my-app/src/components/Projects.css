@@ -1,0 +1,23 @@
+/* File: src/components/Projects.css */
+
+.projects {
+    padding: 50px 0;
+    background: linear-gradient(45deg, #ff3366, #9933ff);
+    color: #fff;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .container h2 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+  }
+  
+  .container p {
+    font-size: 1.2rem;
+  }
+  
