@@ -56,3 +56,8 @@
     height: 100%;
     object-fit: fill;
   }  
+  .instagram-icon {
+    color: #bc2a8d; /* Color for the Instagram icon */
+    font-size: 1.5rem; /* Adjust icon size as needed */
+    margin-right: 15px; /* Adjust spacing between the icon and other links */
+  }
